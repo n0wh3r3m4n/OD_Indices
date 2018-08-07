@@ -1,0 +1,95 @@
+"","id","site","name","slug","region","continent","rank","score"
+"1","tw","global","Taiwan","taiwan",NA,NA,1,90
+"2","au","global","Australia","australia",NA,NA,2,79
+"3","gb","global","Great Britain","united_kingdom",NA,NA,2,79
+"4","fr","global","France","france",NA,NA,4,70
+"5","fi","global","Finland","finland",NA,NA,5,69
+"6","ca","global","Canada","canada",NA,NA,5,69
+"7","no","global","Norway","norway",NA,NA,5,69
+"8","br","global","Brazil","brazil",NA,NA,8,68
+"9","nz","global","New Zealand","new_zealand",NA,NA,8,68
+"10","nir","global","Northern Ireland","northern_ireland",NA,NA,10,67
+"11","us","global","United States","United_states",NA,NA,11,65
+"12","dk","global","Denmark","denmark",NA,NA,11,65
+"13","mx","global","Mexico","mexico",NA,NA,11,65
+"14","co","global","Colombia","colombia",NA,NA,14,64
+"15","lv","global","Latvia","latvia",NA,NA,14,64
+"16","jp","global","Japan","japan",NA,NA,16,61
+"17","ar","global","Argentina","argentina",NA,NA,17,60
+"18","sg","global","Singapore","singapore",NA,NA,17,60
+"19","uy","global","Uruguay","uruguay",NA,NA,19,55
+"20","nl","global","Netherlands","netherlands",NA,NA,20,54
+"21","se","global","Sweden","sweden",NA,NA,21,53
+"22","be","global","Belgium","belgium",NA,NA,22,52
+"23","cl","global","Chile","chile",NA,NA,22,52
+"24","de","global","Germany","germany",NA,NA,24,51
+"25","hk","global","Hong Kong","hong_kong",NA,NA,24,51
+"26","ro","global","Romania","romania",NA,NA,24,51
+"27","cz","global","Czech Republic","czech_republic",NA,NA,27,50
+"28","pl","global","Poland","poland",NA,NA,28,49
+"29","at","global","Austria","austria",NA,NA,28,49
+"30","si","global","Slovenia","slovenia",NA,NA,28,49
+"31","ua","global","Ukraine","ukraine",NA,NA,31,48
+"32","in","global","India","india",NA,NA,32,47
+"33","it","global","Italy","italy",NA,NA,32,47
+"34","sk","global","Slovakia","slovakia",NA,NA,32,47
+"35","gr","global","Greece","greece",NA,NA,35,46
+"36","bg","global","Bulgaria","bulgaria",NA,NA,36,45
+"37","py","global","Paraguay","paraguay",NA,NA,37,44
+"38","pr","global","Puerto Rico","puerto_rico",NA,NA,38,43
+"39","ru","global","Russia","russia",NA,NA,38,43
+"40","im","global","Isle of Man","isle_man",NA,NA,38,43
+"41","rs","global","Serbia","serbia",NA,NA,41,41
+"42","il","global","Israel","israel",NA,NA,41,41
+"43","za","global","South Africa","south_africa",NA,NA,43,40
+"44","hr","global","Croatia","croatia",NA,NA,44,39
+"45","pt","global","Portugal","portugal",NA,NA,45,37
+"46","tr","global","Turkey","turkey",NA,NA,45,37
+"47","al","global","Albania","albania",NA,NA,47,36
+"48","ch","global","Switzerland","switzerland",NA,NA,47,36
+"49","sv","global","El Salvador","el_salvador",NA,NA,49,35
+"50","me","global","Montenegro","montenegro",NA,NA,49,35
+"51","th","global","Thailand","thailand",NA,NA,51,34
+"52","mk","global","Macedonia","macedonia",NA,NA,52,31
+"53","bo","global","Bolivia","bolivia",NA,NA,53,30
+"54","ph","global","Philippines","philippines",NA,NA,53,30
+"55","pe","global","Peru","peru",NA,NA,55,29
+"56","gt","global","Guatemala","guatemala",NA,NA,56,28
+"57","do","global","Dominican Republic","dominican_republic",NA,NA,57,27
+"58","ba","global","Bosnia and Herzegovina","bosnia_and_herzegovina",NA,NA,58,26
+"59","ko","global","Kosovo","kosovo",NA,NA,58,26
+"60","jm","global","Jamaica","jamaica",NA,NA,58,26
+"61","id","global","Indonesia","indonesia",NA,NA,61,25
+"62","pa","global","Panama","panama",NA,NA,61,25
+"63","bd","global","Bangladesh","bangladesh",NA,NA,61,25
+"64","cr","global","Costa Rica","costa_rica",NA,NA,64,23
+"65","bt","global","Bhutan","bhutan",NA,NA,64,23
+"66","tn","global","Tunisia","tunisia",NA,NA,66,22
+"67","ir","global","Iran","iran",NA,NA,67,21
+"68","tt","global","Trinidad and Tobago","trinidad_tobago",NA,NA,67,21
+"69","np","global","Nepal","nepal",NA,NA,69,20
+"70","tz","global","Tanzania","tanzania",NA,NA,69,20
+"71","gy","global","Guyana","guyana",NA,NA,69,20
+"72","pk","global","Pakistan","pakistan",NA,NA,72,19
+"73","zm","global","Zambia","zambia",NA,NA,72,19
+"74","kh","global","Cambodia","cambodia",NA,NA,74,17
+"75","bs","global","The Bahamas","bahamas",NA,NA,74,17
+"76","ls","global","Lesotho","lesotho",NA,NA,76,16
+"77","gh","global","Ghana","ghana",NA,NA,76,16
+"78","na","global","Namibia","namibia",NA,NA,78,15
+"79","lc","global","Saint Lucia","saint_lucia",NA,NA,78,15
+"80","ke","global","Kenya","kenya",NA,NA,78,15
+"81","om","global","Oman","oman",NA,NA,81,14
+"82","ve","global","Venezuela","venezuela",NA,NA,81,14
+"83","zw","global","Zimbabwe","zimbabwe",NA,NA,83,13
+"84","mz","global","Mozambique","mozambique",NA,NA,84,12
+"85","af","global","Afghanistan","afghanistan",NA,NA,84,12
+"86","cm","global","Cameroon","cameroon",NA,NA,86,11
+"87","my","global","Malaysia","malaysia",NA,NA,87,10
+"88","bw","global","Botswana","botswana",NA,NA,88,9
+"89","vc","global","Saint Vincent and the Grenadines","saint_vincent_grenadines",NA,NA,89,7
+"90","ag","global","Antigua and Barbuda","Antigua_Barbuda",NA,NA,90,5
+"91","mw","global","Malawi","malawi",NA,NA,90,5
+"92","bb","global","Barbados","barbados",NA,NA,92,4
+"93","kn","global","Saint Kitts and Nevis","saint_kitts_nevis",NA,NA,92,4
+"94","mm","global","Myanmar","myanmar",NA,NA,94,1

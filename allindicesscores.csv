@@ -1,0 +1,388 @@
+"","Country","group","variable","value"
+"2","Albania","ECA","Score.ODB",32.43
+"7","Argentina","LAC","Score.ODB",37.51
+"9","Australia","HIC","Score.ODB",81.15
+"10","Austria","HIC","Score.ODB",70.22
+"13","Bahrain","HIC","Score.ODB",18.91
+"14","Bangladesh","SAS","Score.ODB",10.57
+"16","Belarus","ECA","Score.ODB",10.95
+"17","Belgium","HIC","Score.ODB",45.28
+"19","Benin","SSA","Score.ODB",7.32
+"21","Bolivia","LAC","Score.ODB",27.87
+"22","Bosnia and Herzegovina","ECA","Score.ODB",8.02
+"23","Botswana","SSA","Score.ODB",5.89
+"24","Brazil","LAC","Score.ODB",58.86
+"25","Bulgaria","ECA","Score.ODB",37.14
+"26","Burkina Faso","SSA","Score.ODB",21.63
+"30","Cameroon","SSA","Score.ODB",5.15
+"31","Canada","HIC","Score.ODB",89.54
+"33","Chile","LAC","Score.ODB",47.41
+"34","China","EAP","Score.ODB",19.64
+"35","Colombia","LAC","Score.ODB",51.65
+"36","Congo, Dem. Rep.","SSA","Score.ODB",12.38
+"38","Costa Rica","LAC","Score.ODB",19.87
+"39","Côte d’Ivoire","SSA","Score.ODB",11.48
+"40","Croatia","ECA","Score.ODB",26.75
+"43","Czech Republic","HIC","Score.ODB",44.44
+"44","Denmark","HIC","Score.ODB",70.52
+"46","Dominican Republic","LAC","Score.ODB",32.21
+"47","Ecuador","LAC","Score.ODB",21.62
+"48","Egypt, Arab Rep.","MNA","Score.ODB",13.89
+"49","El Salvador","LAC","Score.ODB",13.88
+"50","Estonia","HIC","Score.ODB",36.31
+"51","Ethiopia","SSA","Score.ODB",16.14
+"53","Finland","HIC","Score.ODB",55.89
+"54","France","HIC","Score.ODB",85.13
+"57","Georgia","ECA","Score.ODB",37.44
+"58","Germany","HIC","Score.ODB",69.52
+"59","Ghana","SSA","Score.ODB",25.96
+"60","Greece","HIC","Score.ODB",38.94
+"61","Guatemala","LAC","Score.ODB",23.72
+"65","Haiti","LAC","Score.ODB",6.27
+"68","Hungary","HIC","Score.ODB",23.3
+"69","Iceland","HIC","Score.ODB",38.87
+"70","India","SAS","Score.ODB",42.8
+"71","Indonesia","EAP","Score.ODB",38.35
+"74","Ireland","HIC","Score.ODB",47.44
+"76","Israel","HIC","Score.ODB",46.26
+"77","Italy","HIC","Score.ODB",55.93
+"78","Jamaica","LAC","Score.ODB",36.95
+"79","Japan","HIC","Score.ODB",75.16
+"80","Jordan","MNA","Score.ODB",12.58
+"81","Kazakhstan","ECA","Score.ODB",26.1
+"82","Kenya","SSA","Score.ODB",40.42
+"84","Korea, Rep.","HIC","Score.ODB",81.16
+"85","Kosovo","ECA","Score.ODB",23.67
+"87","Kyrgyz Republic","ECA","Score.ODB",13.24
+"89","Latvia","HIC","Score.ODB",27.89
+"90","Lebanon","MNA","Score.ODB",5.82
+"98","Macedonia, FYR","ECA","Score.ODB",32.58
+"100","Malawi","SSA","Score.ODB",10.51
+"101","Malaysia","EAP","Score.ODB",28.06
+"103","Mali","SSA","Score.ODB",2.46
+"107","Mauritius","SSA","Score.ODB",26.3
+"108","Mexico","LAC","Score.ODB",73.45
+"110","Moldova","ECA","Score.ODB",43.68
+"112","Montenegro","ECA","Score.ODB",14.54
+"113","Morocco","MNA","Score.ODB",16.86
+"114","Mozambique","SSA","Score.ODB",3.46
+"115","Myanmar","EAP","Score.ODB",1.33
+"116","Namibia","SSA","Score.ODB",9.08
+"117","Nepal","SAS","Score.ODB",15.49
+"118","Netherlands","HIC","Score.ODB",74.95
+"119","New Zealand","HIC","Score.ODB",79.38
+"122","Nigeria","SSA","Score.ODB",20.97
+"123","Norway","HIC","Score.ODB",73.81
+"125","Pakistan","SAS","Score.ODB",3.59
+"126","Panama","LAC","Score.ODB",17.9
+"128","Paraguay","LAC","Score.ODB",28.07
+"129","Peru","LAC","Score.ODB",33.33
+"130","Philippines","EAP","Score.ODB",54.7
+"131","Poland","HIC","Score.ODB",33.95
+"132","Portugal","HIC","Score.ODB",41.89
+"134","Qatar","HIC","Score.ODB",19.26
+"136","Russian Federation","ECA","Score.ODB",48.53
+"137","Rwanda","SSA","Score.ODB",19.62
+"140","Saudi Arabia","HIC","Score.ODB",18.66
+"141","Senegal","SSA","Score.ODB",8.74
+"142","Serbia","ECA","Score.ODB",22.77
+"144","Sierra Leone","SSA","Score.ODB",8.47
+"145","Singapore","HIC","Score.ODB",52.69
+"146","Slovak Republic","HIC","Score.ODB",44.9
+"150","South Africa","SSA","Score.ODB",34.43
+"152","Spain","HIC","Score.ODB",73.36
+"155","St. Lucia","LAC","Score.ODB",12.53
+"159","Swaziland","SSA","Score.ODB",0.28
+"160","Sweden","HIC","Score.ODB",69.84
+"161","Switzerland","HIC","Score.ODB",57.46
+"164","Tajikistan","ECA","Score.ODB",9.7
+"165","Tanzania","SSA","Score.ODB",21.73
+"166","Thailand","EAP","Score.ODB",27.55
+"168","Togo","SSA","Score.ODB",15.65
+"169","Trinidad and Tobago","LAC","Score.ODB",17.99
+"170","Tunisia","MNA","Score.ODB",32.17
+"171","Turkey","ECA","Score.ODB",36.88
+"173","Uganda","SSA","Score.ODB",11.59
+"174","Ukraine","ECA","Score.ODB",35.96
+"175","United Arab Emirates","HIC","Score.ODB",26.17
+"176","United Kingdom","HIC","Score.ODB",100
+"177","United States","HIC","Score.ODB",81.62
+"178","Uruguay","LAC","Score.ODB",60.85
+"181","Venezuela, RB","LAC","Score.ODB",11.62
+"182","Vietnam","EAP","Score.ODB",16.79
+"183","West Bank and Gaza","MNA","Score.ODB",8.24
+"184","Yemen, Rep.","MNA","Score.ODB",0
+"185","Zambia","SSA","Score.ODB",3.82
+"186","Zimbabwe","SSA","Score.ODB",1.87
+"187","Afghanistan","SAS","Score.GODI",12
+"188","Albania","ECA","Score.GODI",36
+"192","Antigua and Barbuda","LAC","Score.GODI",5
+"193","Argentina","LAC","Score.GODI",60
+"195","Australia","HIC","Score.GODI",79
+"196","Austria","HIC","Score.GODI",49
+"198","Bahamas, The","LAC","Score.GODI",17
+"200","Bangladesh","SAS","Score.GODI",25
+"201","Barbados","LAC","Score.GODI",4
+"203","Belgium","HIC","Score.GODI",52
+"206","Bhutan","SAS","Score.GODI",23
+"207","Bolivia","LAC","Score.GODI",30
+"208","Bosnia and Herzegovina","ECA","Score.GODI",26
+"209","Botswana","SSA","Score.GODI",9
+"210","Brazil","LAC","Score.GODI",68
+"211","Bulgaria","ECA","Score.GODI",45
+"215","Cambodia","EAP","Score.GODI",17
+"216","Cameroon","SSA","Score.GODI",11
+"217","Canada","HIC","Score.GODI",69
+"219","Chile","LAC","Score.GODI",52
+"221","Colombia","LAC","Score.GODI",64
+"224","Costa Rica","LAC","Score.GODI",23
+"226","Croatia","ECA","Score.GODI",39
+"229","Czech Republic","HIC","Score.GODI",50
+"230","Denmark","HIC","Score.GODI",65
+"232","Dominican Republic","LAC","Score.GODI",27
+"235","El Salvador","LAC","Score.GODI",35
+"239","Finland","HIC","Score.GODI",69
+"240","France","HIC","Score.GODI",70
+"244","Germany","HIC","Score.GODI",51
+"245","Ghana","SSA","Score.GODI",16
+"246","Greece","HIC","Score.GODI",46
+"247","Guatemala","LAC","Score.GODI",28
+"250","Guyana","LAC","Score.GODI",20
+"253","Hong Kong SAR, China","HIC","Score.GODI",51
+"256","India","SAS","Score.GODI",47
+"257","Indonesia","EAP","Score.GODI",25
+"258","Iran, Islamic Rep.","MNA","Score.GODI",21
+"261","Isle of Man","HIC","Score.GODI",43
+"262","Israel","HIC","Score.GODI",41
+"263","Italy","HIC","Score.GODI",47
+"264","Jamaica","LAC","Score.GODI",26
+"265","Japan","HIC","Score.GODI",61
+"268","Kenya","SSA","Score.GODI",15
+"271","Kosovo","ECA","Score.GODI",26
+"275","Latvia","HIC","Score.GODI",64
+"277","Lesotho","SSA","Score.GODI",16
+"284","Macedonia, FYR","ECA","Score.GODI",31
+"286","Malawi","SSA","Score.GODI",5
+"287","Malaysia","EAP","Score.GODI",10
+"294","Mexico","LAC","Score.GODI",65
+"298","Montenegro","ECA","Score.GODI",35
+"300","Mozambique","SSA","Score.GODI",12
+"301","Myanmar","EAP","Score.GODI",1
+"302","Namibia","SSA","Score.GODI",15
+"303","Nepal","SAS","Score.GODI",20
+"304","Netherlands","HIC","Score.GODI",54
+"305","New Zealand","HIC","Score.GODI",68
+"309","Norway","HIC","Score.GODI",69
+"310","Oman","HIC","Score.GODI",14
+"311","Pakistan","SAS","Score.GODI",19
+"312","Panama","LAC","Score.GODI",25
+"314","Paraguay","LAC","Score.GODI",44
+"315","Peru","LAC","Score.GODI",29
+"316","Philippines","EAP","Score.GODI",30
+"317","Poland","HIC","Score.GODI",49
+"318","Portugal","HIC","Score.GODI",37
+"319","Puerto Rico","LAC","Score.GODI",43
+"321","Romania","ECA","Score.GODI",51
+"322","Russian Federation","ECA","Score.GODI",43
+"328","Serbia","ECA","Score.GODI",41
+"331","Singapore","HIC","Score.GODI",60
+"332","Slovak Republic","HIC","Score.GODI",47
+"333","Slovenia","HIC","Score.GODI",49
+"336","South Africa","SSA","Score.GODI",40
+"340","St. Kitts and Nevis","LAC","Score.GODI",4
+"341","St. Lucia","LAC","Score.GODI",15
+"342","St. Vincent and the Grenadines","LAC","Score.GODI",7
+"346","Sweden","HIC","Score.GODI",53
+"347","Switzerland","HIC","Score.GODI",36
+"349","Taiwan, China","HIC","Score.GODI",90
+"351","Tanzania","SSA","Score.GODI",20
+"352","Thailand","EAP","Score.GODI",34
+"355","Trinidad and Tobago","LAC","Score.GODI",21
+"356","Tunisia","MNA","Score.GODI",22
+"357","Turkey","ECA","Score.GODI",37
+"360","Ukraine","ECA","Score.GODI",48
+"362","United Kingdom","HIC","Score.GODI",79
+"363","United States","HIC","Score.GODI",65
+"364","Uruguay","LAC","Score.GODI",55
+"367","Venezuela, RB","LAC","Score.GODI",14
+"371","Zambia","SSA","Score.GODI",19
+"372","Zimbabwe","SSA","Score.GODI",13
+"373","Afghanistan","SAS","Score.ODIN",22.1
+"374","Albania","ECA","Score.ODIN",54.3
+"375","Algeria","MNA","Score.ODIN",30.6
+"376","Andorra","HIC","Score.ODIN",28.5
+"377","Angola","SSA","Score.ODIN",20.8
+"379","Argentina","LAC","Score.ODIN",37.3
+"380","Armenia","ECA","Score.ODIN",53.4
+"381","Australia","HIC","Score.ODIN",67.4
+"382","Austria","HIC","Score.ODIN",56.1
+"383","Azerbaijan","ECA","Score.ODIN",51
+"384","Bahamas, The","LAC","Score.ODIN",28.3
+"386","Bangladesh","SAS","Score.ODIN",36.9
+"388","Belarus","ECA","Score.ODIN",48.4
+"389","Belgium","HIC","Score.ODIN",49.1
+"390","Belize","LAC","Score.ODIN",34.6
+"391","Benin","SSA","Score.ODIN",15.1
+"392","Bhutan","SAS","Score.ODIN",39.1
+"393","Bolivia","LAC","Score.ODIN",42.2
+"394","Bosnia and Herzegovina","ECA","Score.ODIN",34.8
+"395","Botswana","SSA","Score.ODIN",42.8
+"396","Brazil","LAC","Score.ODIN",39.5
+"397","Bulgaria","ECA","Score.ODIN",71.7
+"398","Burkina Faso","SSA","Score.ODIN",29.5
+"399","Burundi","SSA","Score.ODIN",31.8
+"400","Cabo Verde","SSA","Score.ODIN",20
+"401","Cambodia","EAP","Score.ODIN",24.8
+"402","Cameroon","SSA","Score.ODIN",35.3
+"403","Canada","HIC","Score.ODIN",74.8
+"404","Chad","SSA","Score.ODIN",3.2
+"405","Chile","LAC","Score.ODIN",29.6
+"406","China","EAP","Score.ODIN",41.5
+"407","Colombia","LAC","Score.ODIN",53.5
+"408","Congo, Dem. Rep.","SSA","Score.ODIN",23.5
+"409","Congo, Rep.","SSA","Score.ODIN",29.5
+"410","Costa Rica","LAC","Score.ODIN",52.4
+"411","Côte d’Ivoire","SSA","Score.ODIN",23.1
+"412","Croatia","ECA","Score.ODIN",42.6
+"413","Cuba","LAC","Score.ODIN",34.9
+"414","Cyprus","HIC","Score.ODIN",50.7
+"415","Czech Republic","HIC","Score.ODIN",67.1
+"416","Denmark","HIC","Score.ODIN",80.5
+"417","Djibouti","MNA","Score.ODIN",26.1
+"418","Dominican Republic","LAC","Score.ODIN",44.8
+"419","Ecuador","LAC","Score.ODIN",55
+"420","Egypt, Arab Rep.","MNA","Score.ODIN",38.9
+"421","El Salvador","LAC","Score.ODIN",35
+"422","Estonia","HIC","Score.ODIN",68
+"423","Ethiopia","SSA","Score.ODIN",28
+"424","Fiji","EAP","Score.ODIN",28.5
+"425","Finland","HIC","Score.ODIN",74.6
+"426","France","HIC","Score.ODIN",57.2
+"427","Gabon","SSA","Score.ODIN",17.3
+"428","Gambia, The","SSA","Score.ODIN",26.4
+"429","Georgia","ECA","Score.ODIN",55.1
+"430","Germany","HIC","Score.ODIN",60.8
+"431","Ghana","SSA","Score.ODIN",34.2
+"432","Greece","HIC","Score.ODIN",48
+"433","Guatemala","LAC","Score.ODIN",31.1
+"434","Guinea","SSA","Score.ODIN",36.2
+"435","Guinea-Bissau","SSA","Score.ODIN",27.5
+"436","Guyana","LAC","Score.ODIN",22.6
+"437","Haiti","LAC","Score.ODIN",12.8
+"438","Honduras","LAC","Score.ODIN",34.3
+"439","Hong Kong SAR, China","HIC","Score.ODIN",57.5
+"440","Hungary","HIC","Score.ODIN",53.7
+"441","Iceland","HIC","Score.ODIN",56.6
+"442","India","SAS","Score.ODIN",52.7
+"443","Indonesia","EAP","Score.ODIN",59.5
+"444","Iran, Islamic Rep.","MNA","Score.ODIN",34.8
+"445","Iraq","MNA","Score.ODIN",26.2
+"446","Ireland","HIC","Score.ODIN",60.5
+"448","Israel","HIC","Score.ODIN",46.6
+"449","Italy","HIC","Score.ODIN",62.5
+"450","Jamaica","LAC","Score.ODIN",44.3
+"451","Japan","HIC","Score.ODIN",56.1
+"452","Jordan","MNA","Score.ODIN",37.9
+"453","Kazakhstan","ECA","Score.ODIN",52.3
+"454","Kenya","SSA","Score.ODIN",36.4
+"455","Kiribati","EAP","Score.ODIN",24.9
+"456","Korea, Rep.","HIC","Score.ODIN",66
+"457","Kosovo","ECA","Score.ODIN",43.7
+"458","Kuwait","HIC","Score.ODIN",48.2
+"459","Kyrgyz Republic","ECA","Score.ODIN",47.7
+"460","Lao PDR","EAP","Score.ODIN",22.7
+"461","Latvia","HIC","Score.ODIN",65.6
+"462","Lebanon","MNA","Score.ODIN",33
+"463","Lesotho","SSA","Score.ODIN",31.9
+"464","Liberia","SSA","Score.ODIN",36.2
+"465","Libya","MNA","Score.ODIN",13.7
+"466","Liechtenstein","HIC","Score.ODIN",41.3
+"467","Lithuania","HIC","Score.ODIN",65.6
+"468","Luxembourg","HIC","Score.ODIN",46.9
+"469","Macao SAR, China","HIC","Score.ODIN",38.4
+"470","Macedonia, FYR","ECA","Score.ODIN",57.3
+"471","Madagascar","SSA","Score.ODIN",6.2
+"472","Malawi","SSA","Score.ODIN",32.5
+"473","Malaysia","EAP","Score.ODIN",44.8
+"474","Maldives","SAS","Score.ODIN",37.5
+"475","Mali","SSA","Score.ODIN",36.1
+"476","Malta","HIC","Score.ODIN",41.6
+"477","Marshall Islands","EAP","Score.ODIN",23.4
+"478","Mauritania","SSA","Score.ODIN",33.8
+"479","Mauritius","SSA","Score.ODIN",57.5
+"480","Mexico","LAC","Score.ODIN",70.6
+"481","Micronesia, Fed. Sts.","EAP","Score.ODIN",22.2
+"482","Moldova","ECA","Score.ODIN",67.4
+"483","Mongolia","EAP","Score.ODIN",62.2
+"484","Montenegro","ECA","Score.ODIN",37.6
+"485","Morocco","MNA","Score.ODIN",28.9
+"486","Mozambique","SSA","Score.ODIN",27.9
+"487","Myanmar","EAP","Score.ODIN",39.2
+"488","Namibia","SSA","Score.ODIN",26.2
+"489","Nepal","SAS","Score.ODIN",33.3
+"490","Netherlands","HIC","Score.ODIN",77.5
+"491","New Zealand","HIC","Score.ODIN",62.9
+"492","Nicaragua","LAC","Score.ODIN",31.8
+"493","Niger","SSA","Score.ODIN",34.7
+"494","Nigeria","SSA","Score.ODIN",37.6
+"495","Norway","HIC","Score.ODIN",73.8
+"496","Oman","HIC","Score.ODIN",50.5
+"497","Pakistan","SAS","Score.ODIN",33.4
+"498","Panama","LAC","Score.ODIN",37.3
+"499","Papua New Guinea","EAP","Score.ODIN",16.2
+"500","Paraguay","LAC","Score.ODIN",35.5
+"501","Peru","LAC","Score.ODIN",55.9
+"502","Philippines","EAP","Score.ODIN",58.2
+"503","Poland","HIC","Score.ODIN",75.4
+"504","Portugal","HIC","Score.ODIN",63.7
+"506","Qatar","HIC","Score.ODIN",37.6
+"507","Romania","ECA","Score.ODIN",35.1
+"508","Russian Federation","ECA","Score.ODIN",49.6
+"509","Rwanda","SSA","Score.ODIN",53.7
+"510","Samoa","EAP","Score.ODIN",37
+"511","Sao Tome and Principe","SSA","Score.ODIN",21.5
+"512","Saudi Arabia","HIC","Score.ODIN",29.3
+"513","Senegal","SSA","Score.ODIN",39.9
+"514","Serbia","ECA","Score.ODIN",37.1
+"515","Seychelles","HIC","Score.ODIN",35.4
+"516","Sierra Leone","SSA","Score.ODIN",32.6
+"517","Singapore","HIC","Score.ODIN",63.8
+"518","Slovak Republic","HIC","Score.ODIN",68.8
+"519","Slovenia","HIC","Score.ODIN",69.1
+"520","Solomon Islands","EAP","Score.ODIN",28.3
+"521","Somalia","SSA","Score.ODIN",5.7
+"522","South Africa","SSA","Score.ODIN",44.7
+"523","South Sudan","SSA","Score.ODIN",20.3
+"524","Spain","HIC","Score.ODIN",58.1
+"525","Sri Lanka","SAS","Score.ODIN",43.6
+"527","St. Lucia","LAC","Score.ODIN",19.7
+"528","St. Vincent and the Grenadines","LAC","Score.ODIN",28.4
+"529","Sudan","SSA","Score.ODIN",14.7
+"530","Suriname","LAC","Score.ODIN",34.5
+"531","Swaziland","SSA","Score.ODIN",6.7
+"532","Sweden","HIC","Score.ODIN",77.3
+"533","Switzerland","HIC","Score.ODIN",51.8
+"534","Syrian Arab Republic","MNA","Score.ODIN",17.1
+"535","Taiwan, China","HIC","Score.ODIN",40.7
+"536","Tajikistan","ECA","Score.ODIN",40.7
+"537","Tanzania","SSA","Score.ODIN",32.9
+"538","Thailand","EAP","Score.ODIN",33.1
+"539","Timor-Leste","EAP","Score.ODIN",25.8
+"540","Togo","SSA","Score.ODIN",24.4
+"541","Trinidad and Tobago","LAC","Score.ODIN",28.1
+"542","Tunisia","MNA","Score.ODIN",36.6
+"543","Turkey","ECA","Score.ODIN",50.8
+"544","Turkmenistan","ECA","Score.ODIN",15.7
+"545","Uganda","SSA","Score.ODIN",41.7
+"546","Ukraine","ECA","Score.ODIN",41.8
+"547","United Arab Emirates","HIC","Score.ODIN",51
+"548","United Kingdom","HIC","Score.ODIN",53.7
+"549","United States","HIC","Score.ODIN",68.6
+"550","Uruguay","LAC","Score.ODIN",46
+"551","Uzbekistan","ECA","Score.ODIN",17.6
+"552","Vanuatu","EAP","Score.ODIN",27.3
+"553","Venezuela, RB","LAC","Score.ODIN",30.9
+"554","Vietnam","EAP","Score.ODIN",35.9
+"555","West Bank and Gaza","MNA","Score.ODIN",43.1
+"557","Zambia","SSA","Score.ODIN",23.2
+"558","Zimbabwe","SSA","Score.ODIN",27.1
